@@ -61,7 +61,7 @@ docs/_build/
 target/
 
 # Virtualenv
-venv/
+b2b/
 
 # Vim
 *~
